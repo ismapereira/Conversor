@@ -13,7 +13,7 @@
 > 🤖 Um conversor de moedas moderno desenvolvido com IA para explorar o potencial do desenvolvimento no-code e prompts de IA.
 
 <div align="center">
-  <img src="https://i.imgur.com/placeholder.png" alt="Currency Converter Preview" width="600px"/>
+  <img src="/static/img/capa.png" alt="Currency Converter Preview" width="600px"/>
 </div>
 
 ## ✨ Características
