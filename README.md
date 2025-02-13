@@ -123,6 +123,6 @@ Desenvolvido por Ismael Pereira com IA através do Codeium
 
 <div align="center">
   
-[![Feito com ❤️ e IA](https://img.shields.io/badge/Feito%20com-%E2%9D%A4%EF%B8%8F%20e%20IA-red.svg)](https://github.com/ismapereira/currency-converter-ai)
+[![Feito com ❤️ e IA](https://img.shields.io/badge/Feito%20com-%E2%9D%A4%EF%B8%8F%20e%20IA-red.svg)](https://github.com/ismapereira/Conversor)
 
 </div>
